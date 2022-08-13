@@ -1,0 +1,47 @@
+.articulo{
+    font-size: 50px;
+    font-family:sans-serif;
+    background-color: #496A71;
+    padding: 10px;
+    box-sizing: border-box;
+    
+
+
+}
+.articulo_titulo{
+    font-size: 32px
+    ;
+}
+.outline{
+    outline:  10px rgb(7, 129, 230);
+}
+.articulo_parrafo{
+
+    font-size: 16px;
+    font-family: sans-serif;
+    line-height: 1;
+    background-color: #D2F0EF ;
+    box-sizing: border-box;
+    padding: 20px 20px;
+    text-align: center;
+    margin: 10px;
+    
+
+
+}
+.aside_otros{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #562331;
+    padding: 10px 20px;
+    
+}
+.aside_Sub{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+font-size: 20px;
+}
+.caja1{
+    font-size: 20px;
+    position: relative;
+}
+
